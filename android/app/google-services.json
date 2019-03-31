@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430563354948",
+    "firebase_url": "https://react-voting-app-ua.firebaseio.com",
+    "project_id": "react-voting-app-ua",
+    "storage_bucket": "react-voting-app-ua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430563354948:android:c6b7d3b8bf05f84d",
+        "android_client_info": {
+          "package_name": "com.reactnativeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430563354948-h864dupd11r1cc21a9jkl5arih0m7kon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativeproject",
+            "certificate_hash": "3ac7545a3a6836441c7d2cdf6ada25d1f5dfc15d"
+          }
+        },
+        {
+          "client_id": "430563354948-je9is75s79vds3b1v008mv9kjlm5tv69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvIZMJ4TKBL71oB2tVsfothdEO9bg__I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430563354948-je9is75s79vds3b1v008mv9kjlm5tv69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
